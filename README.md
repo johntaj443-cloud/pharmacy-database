@@ -8,7 +8,7 @@ The database tracks pharmacies, the technicians who work at them, physicians, cu
 
 ## ER Diagram
 
-![Pharmacy ER diagram](images/er_diagram.png)
+![Pharmacy ER diagram](er_diagram.png)
 
 ## Tables and Relationships
 
